@@ -9,12 +9,11 @@ STUDENT_NAMES = [
 
 def first_student_by_index
   return STUDENT_NAMES[0]
-  puts STUDENT_NAMES[0]
 end
 
 first_student_by_index
 def fourth_student_by_index
-  return STUDENT_NAMES[4]
+  return STUDENT_NAMES[3]
 end
 
 def last_student_by_index
