@@ -8,6 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
+  return student_names[0]
   # Write a solution that returns the first student in the array student_names
 end
 
